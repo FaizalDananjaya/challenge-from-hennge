@@ -18,10 +18,10 @@ This challenge is an opportunity for you to demonstrate your front-end developme
 Getting Started
 To get started with this challenge, follow these steps:
 
-  1. Clone the Repository:
-     -. bash
-     -. Copy code
-     -. git clone https://github.com/FaizalDananjaya/challenge-from-hennge.git
+Clone the Repository:
+  1. bash
+  2. Copy code
+  3. git clone https://github.com/FaizalDananjaya/challenge-from-hennge.git
 
 Navigate to the Project Directory:
   1. bash
@@ -42,6 +42,7 @@ Run the Application:
 Project Structure
 Here’s a brief overview of the project structure:
   1. Copy code
+  2. Running This Code
 
 challenge-from-hennge/
 1.   ├── src/
